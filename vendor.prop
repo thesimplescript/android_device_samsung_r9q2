@@ -1,0 +1,21 @@
+# Bluetooth
+bluetooth.device.default_name=Galaxy S21 FE 5G
+
+# Fingerprint
+ro.vendor.fingerprint.type=udfps_optical
+ro.vendor.fingerprint.sensor_location=540|2137|119
+ro.vendor.fingerprint.request_touch_event=true
+
+# Keymaster
+ro.hardware.keystore_desede=true
+
+# NFC
+ro.vendor.nfc.feature.chipname=NXP_SN100U
+ro.vendor.nfc.support.advancedsetting=false
+ro.vendor.nfc.support.autoselect=true
+ro.vendor.nfc.support.defaultaid=true
+ro.vendor.nfc.support.nonaid=true
+ro.vendor.nfc.support.othercategory=true
+ro.vendor.nfc.support.uicc=true
+ro.vendor.nfc.info.antpos=16
+ro.vendor.nfc.support.ese=false
